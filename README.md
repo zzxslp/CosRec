@@ -4,6 +4,8 @@ This is our PyTorch implementation for the paper:
 
 *CosRec: 2D Convolutional Neural Networks for Sequential Recommendation, CIKM-2019*
 
+[[arXiv](https://arxiv.org/abs/1908.09972)] [[GitHub](https://github.com/zzxslp/CosRec)]
+
 The code is tested on a Linux server (w/ NVIDIA GeForce Titan X Pascal) with PyTorch 1.1.0 and Python 3.7.
 
 ## Requirements
@@ -40,6 +42,15 @@ You should be able to obtain MAPs of ~0.188 and ~0.098 on ML-1M and Gowalla resp
 ## Citation
 
 If you find this repository useful, please cite our paper:
+
+```
+@article{yan2019cosrec,
+  title={CosRec: 2D Convolutional Neural Networks for Sequential Recommendation},
+  author={Yan, An and Cheng, Shuo and Kang, Wang-Cheng and Wan, Mengting and McAuley, Julian},
+  journal={arXiv preprint arXiv:1908.09972},
+  year={2019}
+}
+```
 
 ## Acknowledgments
 
