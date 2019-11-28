@@ -44,11 +44,13 @@ You should be able to obtain MAPs of ~0.188 and ~0.098 on ML-1M and Gowalla resp
 If you find this repository useful, please cite our paper:
 
 ```
-@article{yan2019cosrec,
+@inproceedings{yan2019cosrec,
   title={CosRec: 2D Convolutional Neural Networks for Sequential Recommendation},
   author={Yan, An and Cheng, Shuo and Kang, Wang-Cheng and Wan, Mengting and McAuley, Julian},
-  journal={arXiv preprint arXiv:1908.09972},
-  year={2019}
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={2173--2176},
+  year={2019},
+  organization={ACM}
 }
 ```
 
